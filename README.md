@@ -10,8 +10,6 @@ The current version is 2.0.1
 
 This source code can be compiled with Android Studio and Gradle. 
 
-<img src="art.png" width="25%">
-
 ### Note
 - Android 4.3 or later is required.
 - Android Studio supported 
